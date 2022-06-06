@@ -108,4 +108,26 @@ https://prnt.sc/19RP0uKaVNSn, https://prnt.sc/nSQsJvY2-LPO
 
 # Sprint 3
 
----
+Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+Sprint içinde tamamlanması tahmin edilen puan: 80 Puan
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 200 puanlık backlog bulunmaktadır. 2 sprint'e bölündüğünde ikinci sprintin 80 puan olması kararlaştırılmıştır.
+Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. 
+
+Sprint Review: Alınan kararlar: Uygulamanın eksik kısımları tamamlanmış ekip üyeleri tarafından ortak bir karar neticesinde projenin tamamlandığında karar verilmiştir. Renk blokları gözden geçirilmiş, boy ve ağırlık çubuk başlıklarının konumları düzenlenmiştir.Geçen sprintter aldığımız VKI tabloları ve cinsiyet seçeneği ekleme kararı gerçekleştirilmiştir. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. İlerisi için uygulamaya neler ekleyebiliriz konusunu konuşarak fikirler üretilmiştir.
+
+Product Backlog URL: https://docs.google.com/spreadsheets/d/17vlgpgAOPNFJTT4NUQrAIZ5b3eNDe8nN/edit#gid=276037573
+
+Ekran Görüntüleri: https://prnt.sc/7QMrCHfBvlOZ, https://prnt.sc/4IlClCXCI0DE, https://prnt.sc/gs-7z3qdWYaQ
+
+Toplantı Görüntüleri: https://prnt.sc/SeGIxt_DIIuk, https://prnt.sc/WswyuVaKBYlH, https://prnt.sc/XNSNdwkytntc
+
+Sprint Review katılımcıları: Berat Kılıç, Onur Sarıarslan, Özlem İlgi, Sümeyye Yıldırım, Zehra Değirmenci
+Sprint Retrospective: Bu sprintte ekip üyelerinin yoğunluğundan ötürü değerlendirme toplantıları noktasında sorunlar yaşanmıştır ancak görevlerin takibi sağlanmış sürecin aksaması önlenmiştir.
+
+Proje Kodları (Google Drive): https://drive.google.com/drive/folders/1n7ppVFdqXtzqbgAtigpiGU49g7-bIJXa?usp=sharing
+
+Ürün Videosu: https://drive.google.com/file/d/1nZY3sOO3sDKO0B6CwQU2oEzeeuYb4y46/view?usp=sharing
+
+***Bu sprintle beraber uygulamamızın bütün aşamalarını tamamlamış bulunmaktayız.***
+
+
